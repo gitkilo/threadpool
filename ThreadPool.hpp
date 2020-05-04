@@ -2,8 +2,8 @@
 //  ThreadPool.hpp
 //  cpp
 //
-//  Created by 池锋良 on 2020/5/1.
-//  Copyright © 2020 池锋良. All rights reserved.
+//  Created by cfl on 2020/5/1.
+//  Copyright © 2020 cfl. All rights reserved.
 //
 
 #ifndef ThreadPool_hpp
